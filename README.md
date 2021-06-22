@@ -21,7 +21,7 @@
 
 * The result displays stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
 
-![hard_solution](screenshot_2016.png)
+![hard_solution](Screenshot_2016.png)
 
 * The VBA script will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
